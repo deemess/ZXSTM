@@ -1,2 +1,2 @@
 # ZXSTM
-ZX Spectrum emulator on STM32
+ZX Spectrum 48K emulator on STM32
